@@ -1,5 +1,7 @@
-package email.course.springboottestproject;
+package email.course.springboottestproject.lesson1;
 
+import email.course.springboottestproject.lesson1.PricingService;
+import email.course.springboottestproject.lesson1.ProductVerifier;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.Mock;

@@ -1,4 +1,4 @@
-package email.course.springboottestproject;
+package email.course.springboottestproject.lesson1;
 
 import java.math.BigDecimal;
 
