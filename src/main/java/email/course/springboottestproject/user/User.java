@@ -1,4 +1,4 @@
-package email.course.springboottestproject;
+package email.course.springboottestproject.user;
 
 public class User {
 
